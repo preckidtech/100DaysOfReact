@@ -37,5 +37,6 @@ function getUserData(id) {
 }
 
 const data = getUserData(2);
-const course = data.firstName;
+const { id, course } = data;
+id;
 course;

@@ -38,7 +38,8 @@ export default function App() {
 function Message(props) {
   return (
     <p>
-      You have read <span className="text-white">{props.count}</span> pieces of advice
+      You have read <span className="text-white">{props.count}</span> pieces of
+      advice
     </p>
   );
 }

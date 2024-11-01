@@ -11,6 +11,7 @@ const userData = [
     lastName: "Oyebode",
     id: 2,
     course: "Computer Science",
+    score: [278, "firstClass"],
   },
 
   {
@@ -18,6 +19,7 @@ const userData = [
     lastName: "Oyebode",
     id: 3,
     course: "Nursing Science",
+    score: [278, "firstClass"],
   },
 
   {
@@ -25,6 +27,7 @@ const userData = [
     lastName: "Oyebode",
     id: 4,
     course: "Pilot",
+    score: [278, "firstClass"],
   },
 ];
 

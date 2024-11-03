@@ -2,6 +2,13 @@
 
 let pages = 1000;
 
-pages > 1000 ? "over a thousand page" : "less than a thousand page";
+const pageRange =
+  pages > 1000 ? "over a thousand page" : "less than a thousand page";
 
-console.log(pages);
+pageRange;
+
+age = 19;
+const ageRange =
+  age >= 18 ? "You are eligible to vote" : "You are not eligible to vote";
+
+ageRange;

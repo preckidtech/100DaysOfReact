@@ -3,7 +3,8 @@ import React from "react";
 const Pizza = () => {
   return (
     <div>
-      <h1 className="text-pink-400">Hello Precious</h1>
+      5Z
+      <h1 className="text-p">Hello Precious</h1>
     </div>
   );
 };
